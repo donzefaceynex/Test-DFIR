@@ -27,6 +27,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Certifications
  
 <div>
+ 
 <img src="![image](https://github.com/user-attachments/assets/1760d02c-45a1-4908-9014-df7ab921bd66)
  />
  

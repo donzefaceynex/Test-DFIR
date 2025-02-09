@@ -25,7 +25,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ](https://www.linkedin.com/feed/update/urn:li:activity:7289094735506374657/) 
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+ 
 <div>
 <img src="![image](https://github.com/user-attachments/assets/1760d02c-45a1-4908-9014-df7ab921bd66)
  />

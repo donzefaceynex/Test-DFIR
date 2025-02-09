@@ -1,6 +1,6 @@
 # Hello, I'm Donzel Facey
-<a href="www.linkedin.com/in/donzel-facey-5723a7272"> 
- 
+ LINKEDIN:[
+](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile) 
  
 
 I am a Cyber security student graduating in the summer with a profound interest in technology and a dedication to solving complex problems.

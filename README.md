@@ -21,9 +21,10 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Java  
 |  C++ 
 
+ 
  <div>
-  
-  
+
+
  MY Resume:➡️ <img src="(https://www.linkedin.com/feed/update/urn:li:activity:7289094735506374657/)"/> 
 
 
@@ -32,11 +33,11 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 
 ## Certifications
- 
+
 <div>
- 
+
 <img src="[image](https://github.com/user-attachments/assets/1760d02c-45a1-4908-9014-df7ab921bd66)"/>
- 
+
  <img src="(https://www.linkedin.com/feed/update/urn:li:activity:7289712555890012160/)"/> 
 
 ## Projects
